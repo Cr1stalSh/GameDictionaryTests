@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "BNaf9bt89FbWOSdBwkbXRp5pBNCGL63v+8AVSmx98Mr0RvWutU33lgySSa1dobhWPc8vDhL907OURiqtDt7S5A==",
+  "success": true,
+  "projectFilePath": "E:\\bakalavr\\level 4\\sem 2\\pitpo\\kurs\\pitpo_kurs\\pitpo_kurs\\pitpo_kurs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farsd\\.nuget\\packages\\npgsql\\5.0.0\\npgsql.5.0.0.nupkg.sha512",
+    "C:\\Users\\farsd\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\farsd\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\farsd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\farsd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\farsd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Npgsql' 5.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
